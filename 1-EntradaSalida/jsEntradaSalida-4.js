@@ -12,7 +12,7 @@ function mostrar()
 {
   var dato;
 
-  dato= prompt("hola");
+  dato = prompt("hola");
 
   dato = document.getElementById("elNombre").value;
 
